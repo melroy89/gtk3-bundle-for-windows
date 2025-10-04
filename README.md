@@ -8,6 +8,6 @@ GTK3 Bundle for Windows (64-bit), ideal for cross-compiling your GTK application
 
 Download from my server: https://gitlab.melroy.org/melroy/gtk-3-bundle-for-windows
 
-* [Direct Download link](https://gitlab.melroy.org/melroy/gtk-3-bundle-for-windows/-/blob/main/gtk_cross_compile_bundle_3.24.32_win64.zip)
+* [Direct Download link](https://gitlab.melroy.org/melroy/gtk-3-bundle-for-windows/-/blob/main/gtk_cross_compile_bundle_3.24.32_win64.zip) (sorry won't be able to share it anymore due to DDoS)
 
 (*GitHub has a 100MB upload limit, so I couldn't upload the file here*)
